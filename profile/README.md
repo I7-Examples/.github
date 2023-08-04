@@ -7,3 +7,5 @@ The same page on inform7.com provided [a link to ifdb.tads.org](https://ifdb.tad
 However, Inform 7 has moved on since these examples were written. The source text no longer compiles and this limits their usefulness. I think it would be interesting and instructive to update these games so that they compile when using the latest version of Inform 7.
 
 Anyone can join this group. Please [ask for an invitation](https://github.com/I7-Examples/.github/issues/new) if you would like to contribute.
+
+By default, your Inform 7 Examples membership will be hidden from view. If you'd like to show your membership, you can switch from "Private" to "Public" [here](https://github.com/orgs/I7-Examples/people).
